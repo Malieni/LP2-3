@@ -28,7 +28,7 @@ Antes de começar, você precisará ter o seguinte instalado em seu sistema:
 - [Java JDK 11 ou superior](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - [Maven](https://maven.apache.org/download.cgi)
 - [MySQL](https://www.mysql.com/downloads/)
-- [Node.js](https://nodejs.org/) (para o frontend, se aplicável)
+
 
 ## Instalação
 
