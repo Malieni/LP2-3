@@ -15,7 +15,6 @@ O **Patas Amigas** é uma plataforma dedicada à adoção de animais abandonados
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: Bootstrap
 - **Backend**: Java, Spring Boot
 - **Banco de Dados**: MySQL
 - **Testes**: JUnit, Mockito
