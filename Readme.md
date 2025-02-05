@@ -12,7 +12,7 @@ O **Patas Amigas** é uma plataforma dedicada à adoção de animais abandonados
 
    ```bash
    git clone https://github.com/seu-usuario/patas-amigas.git
-<<<<<<< HEAD
+
 
 ## Grupo 
 Guilherme Souza Malieni
@@ -22,4 +22,5 @@ Guilherme Yoshida
 Guilherme Henrique
 
 Rafael Monteiro
+
 =======
